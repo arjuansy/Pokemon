@@ -5,14 +5,13 @@ Program ini merupakan contoh sederhana dari implementasi **Object-Oriented Progr
 ---
 
 ## 🧱 Struktur Proyek
-PokemonRefactor/
- ├── src/
- │    └── Refactor/
- │         ├── Pokemon.java
- │         ├── Battle.java
- │         └── Main.java
- ├── README.md
- └── generate_doc.bat
+Pokemon/
+├── src/
+│ └── Refactor/
+│ ├── Pokemon.java # Kelas untuk mendefinisikan data dan kemampuan Pokémon
+│ ├── Battle.java # Kelas untuk mengatur logika pertarungan antar Pokémon
+│ └── Main.java # Program utama untuk menjalankan simulasi
+├── README.md # Dokumentasi proyek ini
 
 ---
 
@@ -83,12 +82,14 @@ Squirtle vs Pikachu
 
 ---
 
-## 🧩 Cara Menjalankan Program
 
-1. Pastikan Java sudah terinstal.
-2. Masuk ke folder `src`.
-3. Jalankan perintah berikut di terminal:
+---
 
-```bash
-javac Refactor/*.java
-java Refactor.Main
+## 🚀 Cara Menjalankan Program
+
+1. **Clone repositori:**
+   ```bash
+   git clone https://github.com/username/PokemonRefactor.git
+2, **Buka Intellij:**
+ ```bash
+   Open folder repository yang telah diclone lalu klik main dan run
