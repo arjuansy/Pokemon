@@ -20,7 +20,12 @@ public class Pokemon {
     private String tipe;
     private int kekuatan;
     private int level;
+    private String elemen
 
+    public String getElemen(){
+        return elemen;
+    }
+    
     public void naikLevel() {
         this.level++;
         System.out.println(nama + " naik ke level " + level + "!");
