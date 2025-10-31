@@ -5,7 +5,14 @@ Program ini merupakan contoh sederhana dari implementasi **Object-Oriented Progr
 ---
 
 ## 🧱 Struktur Proyek
-
+PokemonRefactor/
+ ├── src/
+ │    └── Refactor/
+ │         ├── Pokemon.java
+ │         ├── Battle.java
+ │         └── Main.java
+ ├── README.md
+ └── generate_doc.bat
 
 ---
 
@@ -42,6 +49,36 @@ Menjalankan program utama:
 ---
 
 ## 🧠 Contoh Output
+
+=== Daftar Pokémon ===
+Nama: Pikachu
+Tipe: Listrik
+Kekuatan Dasar: 85
+Kekuatan Akhir (bonus): 102
+---------------------------
+Nama: Charmander
+Tipe: Api
+Kekuatan Dasar: 78
+Kekuatan Akhir (bonus): 93
+---------------------------
+Nama: Squirtle
+Tipe: Air
+Kekuatan Dasar: 80
+Kekuatan Akhir (bonus): 96
+---------------------------
+
+=== Pertarungan Dimulai! ===
+Pikachu vs Charmander
+-----------------------------
+🔥 Pemenang adalah: Pikachu!
+=============================
+
+
+=== Pertarungan Dimulai! ===
+Squirtle vs Pikachu
+-----------------------------
+🔥 Pemenang adalah: Pikachu!
+=============================
 
 
 ---
