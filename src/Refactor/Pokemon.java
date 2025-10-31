@@ -21,7 +21,11 @@ public class Pokemon {
     private int kekuatan;
     private int level;
     private String elemen
+    private String a
 
+    public String a() {
+    return a;
+}
     public String getElemen(){
         return elemen;
     }
