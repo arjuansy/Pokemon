@@ -5,12 +5,13 @@ Program ini merupakan contoh sederhana dari implementasi **Object-Oriented Progr
 ---
 
 ## 🧱 Struktur Proyek
-
+```
 ├── src/
     ├── Refactor/
         ├── Main.java
         ├── Pokemon.java
         ├── Battle.java
+```
 ---
 ## 🧠 Fitur Utama
 
