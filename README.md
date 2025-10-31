@@ -15,7 +15,7 @@ Program ini merupakan contoh sederhana dari implementasi **Object-Oriented Progr
 ---
 ## 🧠 Fitur Utama
 
-- 🪄 Pertarungan Pokémon berdasarkan kekuatan (attackPower)
+-  Pertarungan Pokémon berdasarkan kekuatan (attackPower)
 - ⚔️ Battle simulation dengan hasil acak berdasarkan atribut Pokémon
 - 🧱 Refactoring kode agar modular dan mudah dikembangkan
 - 🧾 JavaDoc untuk dokumentasi otomatis ke HTML
