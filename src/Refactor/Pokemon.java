@@ -19,21 +19,8 @@ public class Pokemon {
     private String nama;
     private String tipe;
     private int kekuatan;
-    private int level;
-    private String elemen
-    private String a
 
-    public String a() {
-    return a;
-}
-    public String getElemen(){
-        return elemen;
-    }
-    
-    public void naikLevel() {
-        this.level++;
-        System.out.println(nama + " naik ke level " + level + "!");
-    }
+ 
 
     /** Konstanta pengali kekuatan (bonus tetap). */
     private static final double POWER_MULTIPLIER = 1.2;
