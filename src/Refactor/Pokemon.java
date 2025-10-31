@@ -21,7 +21,7 @@ public class Pokemon {
     private int kekuatan;
 
  
-
+private String;
     /** Konstanta pengali kekuatan (bonus tetap). */
     private static final double POWER_MULTIPLIER = 1.2;
 
