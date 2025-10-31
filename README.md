@@ -52,7 +52,7 @@ Menjalankan program utama:
 - Memulai dua pertarungan menggunakan objek `Battle`.
 
 Refactori yang diterapkan
-- **Move Member* → Memindahkan logika kelas mainlama ke Main
+- **Move Member** → Memindahkan logika kelas mainlama ke Main
 
 ---
 
