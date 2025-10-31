@@ -5,15 +5,19 @@ Program ini merupakan contoh sederhana dari implementasi **Object-Oriented Progr
 ---
 
 ## 🧱 Struktur Proyek
-Pokemon/
 ├── src/
-│ └── Refactor/
-│ ├── Pokemon.java # Kelas untuk mendefinisikan data dan kemampuan Pokémon
-│ ├── Battle.java # Kelas untuk mengatur logika pertarungan antar Pokémon
-│ └── Main.java # Program utama untuk menjalankan simulasi
-├── README.md # Dokumentasi proyek ini
-
+    ├── Refactor/
+        ├── Main.java
+        ├── Pokemon.java
+        ├── Battle.java
 ---
+## 🧠 Fitur Utama
+
+🪄 Pertarungan Pokémon berdasarkan kekuatan (attackPower)
+⚔️ Battle simulation dengan hasil acak berdasarkan atribut Pokémon
+🧱 Refactoring kode agar modular dan mudah dikembangkan
+🧾 JavaDoc untuk dokumentasi otomatis ke HTML
+🌿 Git branching workflow untuk pengembangan fitur baru
 
 ## 🧩 Deskripsi Kelas
 
@@ -44,6 +48,9 @@ Menjalankan program utama:
 - Membuat beberapa Pokémon.
 - Menampilkan data mereka.
 - Memulai dua pertarungan menggunakan objek `Battle`.
+
+Refactori yang diterapkan
+- **Move Member* → Memindahkan logika kelas mainlama ke Main
 
 ---
 
